@@ -24,7 +24,7 @@ const Header: React.FC = () => {
         className="flex items-center justify-center cursor-pointer"
         onClick={() => router.push("/")}
       >
-        <img src="/image.png" alt="Logo" className="h-6 bg-green-300" />
+        <img src="/logo.jpeg" alt="Logo" className="h-6 bg-green-300" />
         <h1 className="text-2xl font-bold ml-2 text-green-500">KickBegin</h1>
       </div>
 

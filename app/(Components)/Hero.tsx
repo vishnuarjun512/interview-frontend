@@ -304,7 +304,7 @@ const Hero: React.FC<HeroProps> = ({ isAuthenticated }) => {
       {/* Right Image */}
       <div className="w-1/2 flex items-center justify-center bg-gradient-to-r from-green-50 to-white">
         <img
-          src="/path-to-image.jpg"
+          src="/character.webp"
           alt="Placeholder"
           className="w-3/4 h-auto object-cover rounded-lg shadow-lg"
         />
